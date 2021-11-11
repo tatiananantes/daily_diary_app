@@ -1,6 +1,13 @@
 
 Daily Diary Application - Mini project exploring how databases work - Makers Academy Week 4
 
+## Environment Set up
+(https://github.com/makersacademy/course/blob/main/pills/ruby_web_project_setup_list.md)
+ - set up Sinatra with RSpec and Capybara
+ - set up Rubocop and SimpleCov (for test coverage insights)
+ - using rackup to run the server
+
+
 ## User Stories
 
 ### Must Have
